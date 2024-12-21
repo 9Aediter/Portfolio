@@ -1,0 +1,9 @@
+I1221 16:09:15.931405   28720 load.go:37] Reloading schema and connectors...
+I1221 16:09:15.953906   28720 control.go:45] [engine.Service /emulator/anonweb 374c] UpdateSchema(): done sources: schema\schema.gql [1384B] 
+I1221 16:09:15.977399   28720 control.go:73] [engine.Service /emulator/anonweb 374c] UpdateConnector(default): done sources: connector\queries.gql [1855B] connector\mutations.gql [1163B] 
+I1221 16:09:16.037231   28720 codegen.go:82] [connector "default" javascriptSdk] Generating sources into "C:\\Users\\mrano\\Desktop\\UPLIFT\\Portfolio\\anonweb\\dataconnect-generated\\js\\default-connector"
+I1221 16:09:16.041768   28720 collector.go:107] schema extensions wrote into "C:\\Users\\mrano\\Desktop\\UPLIFT\\Portfolio\\anonweb\\dataconnect\\.dataconnect\\schema"
+Generated sources: prelude.gql [65151B] 
+I1221 16:09:16.046778   28720 collector.go:107] connector "default" javascriptSdk wrote into "C:\\Users\\mrano\\Desktop\\UPLIFT\\Portfolio\\anonweb\\dataconnect-generated\\js\\default-connector"
+Generated sources: esm\index.esm.js [180B] esm\package.json [17B] index.cjs.js [221B] package.json [634B] index.d.ts [264B] 
+I1221 16:09:16.066707   28720 installsdk.go:76] Running command: C:\Program Files\nodejs\npm.cmd install file:dataconnect-generated\js\default-connector

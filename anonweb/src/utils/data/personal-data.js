@@ -10,7 +10,7 @@ export const personalData = {
   github: "https://github.com/9Aediter",
   facebook: "https://www.facebook.com/anonsuphatphon/",
   linkedIn: "https://www.linkedin.com/in/anon-suphatphon/",
-  twitter: "https://twitter.com/said7388",
+  twitter: "https://x.com/9anon_X",
   devUsername: "ninea",
   skills: [
     "HTML&CSS",
@@ -32,5 +32,5 @@ export const personalData = {
     "Microsoft 365",
   ],
   resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+    "https://drive.google.com/file/d/1Op-QiqXDnuhKWi-1UXWPGGR_lvd1-cQn/view?usp=sharing",
 };

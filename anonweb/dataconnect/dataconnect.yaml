@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "anonweb"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "anonweb-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
